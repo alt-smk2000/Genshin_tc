@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Albedo",
+        "birthdate":"13/09",
+        "vision":"Geo",
+        "weapon":"sword"
+    }
+,
+    {
+        "name":"Amber",
+        "birthdate":"10/08",
+        "vision":"Pyro",
+        "weapon":"Bow"
+    }
+,
+    {
+        "name":"Klee",
+        "birthdate":"27/07",
+        "vision":"Pyro",
+        "weapon":"Catalyst"
+    }
+,
+    {
+        "name":"Tartaglia",
+        "birthdate":"20/07",
+        "vision":"Hydro",
+        "weapon":"Bow"
+    }
+]
+
